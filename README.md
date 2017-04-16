@@ -1,5 +1,5 @@
-# Machine-Learning-1
-Machine Learning 1 University of Amsterdam
+# Machine-Learning
+Machine Learning University of Amsterdam
 
 Collaborators :
 - Tim Davidson
